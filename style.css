@@ -1,0 +1,78 @@
+/* *{
+    border: 1px solid red;
+} */
+
+/* header desain  */
+.info-primary{
+    background-color:#264653 ;
+}
+
+/* hedar p desain  */
+#details{
+    color: #E0E0E0;
+     line-height: 24px;
+     font-size: 16px;
+ }
+ /* hedar btn desain  */
+ .btn{
+    background: #E76F51;
+    
+ }
+ /* bike Fetured heading desain */
+ .mainHeading {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+     }
+     /* bike Fetured bike heading desain  */
+     #mainBike1{
+        Width: 288px;
+        Height: 243px;
+        filter: grayscale(1);
+     }
+     #mainBike2{
+        Width: 288px;
+        Height: 243px;
+      
+     }
+     #mainBike3{
+        Width: 288px;
+        Height: 243px;
+        filter: grayscale(1);
+     }
+
+
+     /* clint opinion heading desain  */
+     .clintMainHeading {
+        padding-top: 80px;
+        padding-bottom: 50px;
+        
+         }
+
+  @media (max-width:700px) {
+             
+.body{
+    
+    background-color: red;
+}
+.redbike{
+    height: 321px;
+    width: 280px;
+}
+#frequentQuestionImage{
+    Width :204.2px;
+    Height: 269.3px;
+}
+
+
+
+ }
+
+ @media (max-width:400px) {
+             
+    #sectionDreem{
+        width: 313px;
+    }  
+
+  
+    }
